@@ -1,0 +1,9 @@
+# How to play
+
+Run the following command in a terminal window
+
+`node wordgame.js`.
+
+You can also pass an optional size for the base word
+
+`node wordgame.js [size]`
